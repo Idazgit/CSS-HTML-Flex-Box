@@ -1,0 +1,72 @@
+.red{
+        background-color: red;
+        width: 100%;
+        height: 50px;
+}
+
+.yellow{
+        
+        background-color: yellow;
+        width: 100%;
+        height: 150px;
+}
+
+.blue{
+        background-color: blue;
+        height: 500px;
+        width: 100%;
+}
+
+.green{
+    background-color: green;
+    height: 100%
+}
+
+.orange{
+    background-color: orange;
+    width: 50%;
+
+}
+
+.blueblue{ 
+    background-color: aqua;
+    height: 100%;
+}
+
+.white{
+    background-color: bisque;
+    height: 100%;
+    width: 50%;
+}
+ 
+.black{
+    background-color: black;
+    height: 125px;
+    width: 50%;
+}
+
+.boite2{
+    display: flex;
+
+}
+.boite3{
+     width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.boite4{
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.boite5{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.boite6{
+    display: flex;
+    flex-direction: row;
+}
